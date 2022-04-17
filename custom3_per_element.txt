@@ -1,0 +1,3 @@
+Method: A thread per element
+   25    41 
+    9    24 

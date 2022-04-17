@@ -1,0 +1,2 @@
+Method: A thread per element
+can not multiply as no.of cols of A != no.of rows B
